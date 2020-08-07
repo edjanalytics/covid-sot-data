@@ -1,6 +1,6 @@
 # Covid Source of Truth Data for the Louisville Metro Area
 
-This is a public resource created by the SAFE Louisville team to host a source of truth data set and accompanying visualizations related to the Covid-19 pandemic for the Louisville community. The idea is to use data transparency to achieve greater public and situational awareness of the Covid-19 pandemic. 
+This is a public resource created to host a source of truth data set and accompanying visualizations related to the Covid-19 pandemic for the Louisville community. The idea is to use data transparency to achieve greater public and situational awareness of the Covid-19 pandemic. 
 
 One of the unique features of this public repository is that it looks at the Louisville Metropolitan Statistical Area, a ten-county region. People travel for work, recreation, consumer services, health and other purposes to and from Jefferson County from and to the surrounding counties, and information accumulated across the region is meaningful. 
 
